@@ -10,3 +10,6 @@ $ git add
 $ git commit -m ""
 $ git revert
 $ git reset
+
+# Add some more info to readme
+just to check
